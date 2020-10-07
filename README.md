@@ -67,13 +67,13 @@ Please check out how to install `git` for your Linux distribution.
 Commands below provide instructions for Debian-based systems.
 
 To use the bomber type the following commands in Linux terminal:
-```
+
 sudo apt install git
 git clone https://github.com/TheSpeedX/TBomb.git
 cd TBomb
 chmod +x TBomb.sh
 sudo bash TBomb.sh
-```
+
 
 ### > For macOS:
 
@@ -127,7 +127,7 @@ sudo bash TBomb.sh
 
 **[@] 34D30Y ( 34db0y@protonmail.com  )**
 
-**[@] SC AMAN**
+**[@] SC AMAN** 
 
 # CONTACT ME:
 
