@@ -131,4 +131,4 @@ read a3
 clear
 fi
 done
-echo "hope you like"
+echo "hope you like this"
