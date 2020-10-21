@@ -3,7 +3,7 @@ clear
 echo -e "\e[4;31m SpeedX Productions !!! \e[0m"
 echo -e "\e[1;34m Presents \e[0m"
 echo -e "\e[1;32m TBomb \e[0m"
-echo "Press Enter To Continue"
+echo "Press Enter To Continue(start boMbInG)"
 read a1
 if [[ -s update.speedx ]];then
 echo "All Requirements Found...."
